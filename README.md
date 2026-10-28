@@ -1,7 +1,7 @@
 Practice 3
 ---
 Animation on how the Longest Job First Scheduling (LJF) algorithm works
----
+-----
 Author
 ---
 Sadegh Azodi
